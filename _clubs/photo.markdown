@@ -34,3 +34,5 @@ If you have questions regarding the club, check the [Officers & Contacts]() page
 Topic: Portrait
 Time: 12-1 pm
 Location: Hybrid; 23/S402 and Teams (link sent to members)
+
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/63368383@N06" title=""><img src="https://live.staticflickr.com/65535/54734796633_ddf69d76de_h.jpg" width="1600" height="1200" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
