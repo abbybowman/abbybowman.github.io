@@ -9,17 +9,17 @@ sub-pages:
 
 contact-email: jane.doe@gmail.gov
 socials:
-#  twitter: /
-#  github: /
-#  facebook: /
-#  instagram: /
-#  youtube: /
-  flickr: http://www.flickr.com/photos/gsfcphoto/
+  twitter: /
+  github: /
+  facebook: /
+  instagram: /
+  youtube: /
+  flickr: https://www.flickr.com/photos/gsfcphoto/
   
 layout: club
 ---
 
-The **Goddard Photo Club** is for employees of Goddard and their families and promotes the enjoyment of photography. This site provides members information about events, presentations, and resources. Club members lead field trips, present workshops, and share their photographs on our [Flickr](http://www.flickr.com/photos/gsfcphoto/) site.
+The **Goddard Photo Club** is for employees of Goddard and their families and promotes the enjoyment of photography. This site provides members information about events, presentations, and resources. Club members lead field trips, present workshops, and share their photographs on our [Flickr](https://www.flickr.com/photos/gsfcphoto/) site.
 
 Potential members may browse our site to assist them with their photographic needs, to find information about the club, and they are welcome at any Club meeting.
 
